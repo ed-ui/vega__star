@@ -45,7 +45,6 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
-  /* min-width: 700px; */
   color: #fff;
   padding-bottom: 45px;
 
@@ -65,16 +64,12 @@ a {
   font-size: 26px;
   line-height: 64px;
   font-weight: 400;
-  /* margin-bottom: 25px; */
-  /* ext-transform: uppercase; */
 }
 
 .phone_item {
   padding: 28px 0 0px;
   display: block;
   margin-right: 10px;
-  /* justify-content: space-between;
-  align-items: center; */
 }
 
 .phone_item-city {
